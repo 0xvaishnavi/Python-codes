@@ -1,0 +1,14 @@
+#PYTHON PROGRAM TO PRINT FIRST N NATURAL ODD NUMBERS USING WHILE AND FOR LOOP
+
+1) WHILE LOOP
+n=int(input("Enter the value of N here:- "))
+i=1
+while (i<=n):   
+    print(i)
+    i=i+2
+
+2) FOR LOOP
+n=int(input("Enter the value of N here:- "))
+for i in range(1,n+1):   
+    print(i)
+    i=i+2    

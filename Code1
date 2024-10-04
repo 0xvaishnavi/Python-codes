@@ -1,0 +1,6 @@
+#Python program to find the biggest number from the given 3 numbers
+x=int(input("Enter first number here:- "))
+y=int(input("Enter second number here:- "))
+z=int(input("Enter third number here:- "))
+print("The biggest number is",(max(x,y,z)))
+

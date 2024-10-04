@@ -1,0 +1,6 @@
+#PYTHON PROGRAM TO CHECK WHETHER THE GIVEN YEAR IS LEAP YEAR OR NOT
+n=int(input("Enter any number here:- "))
+if n%4==0:
+    print("Given year is a leap year!")
+else:
+    print("Given year is not a leap year!")

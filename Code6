@@ -1,0 +1,13 @@
+#PYTHON PROGRAM TO PRINT FIRST N NATURAL EVEN NUMBERS USING FOR AND WHILE LOOP
+#WHILE LOOP
+n=int(input("Enter the value of N here:- "))
+i=2
+while (i<=n):   
+    print(i)
+    i=i+2
+
+#FOR LOOP
+n=int(input("Enter the value of N here:- "))
+for i in range(2,n+1):   
+    print(i)
+    i=i+2    

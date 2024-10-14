@@ -25,5 +25,8 @@ Code10- Python program to swap two numbers in a single statement.
 
 Code11- Python program to take positive integer N and then produce N lines of outtput. (Left indented Pyramid)
 
+Code12- Python program to take positive integer N and then produce N lines of outtput. (INVERTED- Left indented Pyramid)
+
+Code13- Python program to print first N prime numbers.
 
 

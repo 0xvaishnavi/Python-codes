@@ -1,0 +1,11 @@
+#PYTHON PROGRAM TO PRINT FIRST N PRIME NUMBERS.
+n=int(input("Enter positive value of N here:- "))
+a=1
+if n<=0:
+    print("Enter a positive value.")
+else:
+    for i in range(2, int(n**0.5) + 1):
+        if n% i == 0:
+            print(n, "is not prime")
+        else:
+            print(n, "is prime")

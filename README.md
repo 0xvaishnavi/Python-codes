@@ -23,5 +23,7 @@ Code9- Python program to display the factorial of a given number.
 
 Code10- Python program to swap two numbers in a single statement.
 
+Code11- Python program to take positive integer N and then produce N lines of outtput. (Left indented Pyramid)
+
 
 

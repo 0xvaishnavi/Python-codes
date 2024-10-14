@@ -29,4 +29,8 @@ Code12- Python program to take positive integer N and then produce N lines of ou
 
 Code13- Python program to print first N prime numbers.
 
+Code14- Python program to print squares of first N numbers.
+
+Code15-
+
 

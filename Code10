@@ -1,0 +1,6 @@
+#PYTHON PROGRAM TO SWAP TWO NUMBERS IN A SINGLE STATEMENT.
+a = int(input("Enter the first number (a): "))
+b = int(input("Enter the second number (b): "))
+
+a, b = b, a
+print("After swapping: a = {a}, b = {b}")

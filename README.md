@@ -31,6 +31,8 @@ Code13- Python program to print first N prime numbers.
 
 Code14- Python program to print squares of first N numbers.
 
-Code15-
+Code15- Python program to print sum of squares of first N numbers.
+
+Code16- Python program to pri
 
 

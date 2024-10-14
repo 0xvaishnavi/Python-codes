@@ -1,0 +1,5 @@
+#PYTHON PROGRAM THAT TAKES A POSITIVE INTEGER N AND THEN PRODUCE N LINES OF OUTPUT. 
+
+n=int(input("Enter any number here:- "))
+for i in range(1,n+1):
+    print('*'*i)

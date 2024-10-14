@@ -1,0 +1,7 @@
+#PYTHON PROGRAM TO TAKE A POSITIVE INTEGER N AND THEN PRODUCE N LINES OF OUTPUT. (INVERTED LEFT INDENTED TRIANGLE)
+n=int(input("Enter any number here:- "))
+if n>0:
+    for i in range(n,0,-1):
+        print('*'*i)
+elif n<=0:
+    print("Enter a positive integer!")

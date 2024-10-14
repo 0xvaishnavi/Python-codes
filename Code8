@@ -1,0 +1,17 @@
+#PYTHON PROGRAM TO ADD N NATURAL NUMBERS AND DISPLAY THEIR SUM
+
+a) Using While loop
+n=int(input("Enter any natural number here:- "))
+sum = 0
+a= 1
+while a<= n:
+    sum = sum + a
+    a = a + 1
+print(sum)
+
+b) Using For loop
+n=int(input("Enter the natural number here:- "))
+sum= 0
+for i in range(n+1):
+  sum+=i
+print(sum)

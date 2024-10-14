@@ -21,4 +21,7 @@ Code8- Python program to add N natural numbers and display their sum.
 
 Code9- Python program to display the factorial of a given number.
 
+Code10- Python program to swap two numbers in a single statement.
+
+
 

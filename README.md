@@ -1,4 +1,4 @@
-#!00 PYTHON CODES 
+#100 PYTHON CODES 
 List of contents:
 Code1- Python program to find the biggest number from the given three numbers.
 Code2- Python program to print factors of a given number.

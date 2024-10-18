@@ -34,7 +34,7 @@ Grade C: if Percentage >= 40 and Percentage < 60
 Grade D: if Percentage < 40
 
 Code-14: Python program that takes a positive integer n and then produce n lines of output:
-      *
+          *
     *	*	*
   *	*	*	*	*
 *	*	*	*	*	*	*	 (sample output for n=4)
@@ -46,14 +46,17 @@ Code-15: Python program that takes a positive integer n and then produce n lines
 *				(sample output for n=4)
 
 Code-16: Python program that takes a positive integer n and then produce n lines of output:
-      1
-    1	2	1
-  1	2	3	2	1
+               1
+         1	2	1
+     1    2	3    2	1
 1	2	3	4	3	2	1 	(sample output for n=4)
 
 Code-17: Python program to print Fibonacci series till the given number N. (eg. 1,1,2,3,5,8,13 for n=7) 
 
 Code-18: Python program to print first N prime numbers
+
+Code-19: Python program to print all the prime numbers till N.
+
 
 
 Code2- Python program to print factors of a given number.

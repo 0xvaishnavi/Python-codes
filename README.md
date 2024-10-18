@@ -25,6 +25,14 @@ Code-10: Python program to display the factorial of a given number.
 
 Code-11: Python program to swap two numbers in a single statement.
 
+Code-12: Python program to find the roots of the quadratic equation.
+
+Code-13: Python program to calculate the total marks, percentage and grade of a student.Marks obtained in each of the three subjects entered by the user.Assign grades according to the following criteria: 	
+Grade A: if Percentage >= 80 
+Grade B: if Percentage >= 60 and Percentage < 80 
+Grade C: if Percentage >= 40 and Percentage < 60 
+Grade D: if Percentage < 40
+
 
 Code2- Python program to print factors of a given number.
 

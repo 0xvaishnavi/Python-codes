@@ -11,15 +11,19 @@ Code-3: Python program to find the biggest number from the given three numbers u
 
 Code-4: Python program to print first N natural numbers.
 
+Code-5: Python program to print all the natural numbers till N.
+
+Code-6: Python program to print first N natural odd numbers using while and for loop.
+
+Code-7: Python program to print firs tN natural even numbers using while and for loop.
+
 Code2- Python program to print factors of a given number.
 
 Code3- Python program to check whether a given number is even or odd.
 
 
 
-Code5- Python program to print first N natural odd numbers using while and for loop.
 
-Code6- Python program to print firs tN natural even numbers using while and for loop.
 
 Code7- Python program to check whether a given year is leap year or not.
 

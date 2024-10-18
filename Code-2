@@ -1,0 +1,13 @@
+#Python program to find the biggest number from the given 2 numbers using built-in function and if statements.
+BUILT-IN FUNCTION
+a,b=input("Enter any two numbers here:-").split()
+print("The biggest number is",(max(a,b)))
+
+NESTED IF STATEMENTS
+a,b=input("Enter any two numbers here:- ").split()
+if a>b:
+    print(a, "is biggest number.")
+elif b>a:
+    print(b, "is the biggest number.")
+else:
+    print("both number are equal.")

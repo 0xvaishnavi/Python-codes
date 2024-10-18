@@ -5,4 +5,4 @@ b = int(input("Enter the second number (b): "))
 a, b = b, a
 
 print("a:", a) 
-print("b:", b)
+print("b:", b) 

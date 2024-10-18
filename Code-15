@@ -4,4 +4,4 @@ if n>0:
     for i in range(n,0,-1):
         print(' * '*i)
 elif n<=0:
-    print("Enter a positive integer!")
+    print("Enter a positive integer!") 

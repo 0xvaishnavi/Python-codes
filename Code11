@@ -1,9 +1,0 @@
-#PYTHON PROGRAM THAT TAKES A POSITIVE INTEGER N AND THEN PRODUCE N LINES OF OUTPUT.  (LEFT INDENTED PYRAMID)
-
-n=int(input("Enter any number here:- "))
-if n>0:
-    for i in range(1,n+1):
-        print('*'*i)
-elif n<=0:
-    print("Enter a positive integer!")n=int(input("Enter any number here:- "))
-

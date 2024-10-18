@@ -1,4 +1,8 @@
-#PYTHON PROGRAM THAT TAKES A POSITIVE INTEGER N AND THEN PRODUCE N LINES OF OUTPUT.  (LEFT INDENTED PYRAMID)
+Python program that takes a positive integer n and then produce n lines of output:
+                        *
+                *	*	*
+        *	*	*	*	*
+*	*	*	*	*	*	*	(sample output for n=4)
 
 rows=int(input("Enter number of rows here:- "))
 for i in range(rows):      

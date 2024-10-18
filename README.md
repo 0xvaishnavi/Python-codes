@@ -3,6 +3,10 @@
 
 List of contents:
 
+Code-1: Python program to check whether the given number is even number or odd number.
+
+Code-2: Python program to find the biggest number from the given 2 numbers using built-in function and if statements.
+
 Code-3: Python program to find the biggest number from the given three numbers using built-in function and nested if statements.
 
 Code2- Python program to print factors of a given number.

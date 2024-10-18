@@ -9,11 +9,13 @@ Code-2: Python program to find the biggest number from the given 2 numbers using
 
 Code-3: Python program to find the biggest number from the given three numbers using built-in function and nested if statements.
 
+Code-4: Python program to print first N natural numbers.
+
 Code2- Python program to print factors of a given number.
 
 Code3- Python program to check whether a given number is even or odd.
 
-Code4- Python program to print first N natural numbers.
+
 
 Code5- Python program to print first N natural odd numbers using while and for loop.
 

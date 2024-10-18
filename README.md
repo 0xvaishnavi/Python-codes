@@ -17,6 +17,8 @@ Code-6: Python program to print first N natural odd numbers using while and for 
 
 Code-7: Python program to print firs tN natural even numbers using while and for loop.
 
+Code-8: Python program to check whether a given year is leap year or not.
+
 Code2- Python program to print factors of a given number.
 
 Code3- Python program to check whether a given number is even or odd.
@@ -25,7 +27,7 @@ Code3- Python program to check whether a given number is even or odd.
 
 
 
-Code7- Python program to check whether a given year is leap year or not.
+Code7- 
 
 Code8- Python program to add N natural numbers and display their sum.
 

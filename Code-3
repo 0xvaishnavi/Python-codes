@@ -1,0 +1,19 @@
+#Python program to find the biggest number from the given 3 numbers using built in function and nested if statements.
+BUILT IN FUNCTION:-
+x=int(input("Enter first number here:- "))
+y=int(input("Enter second number here:- "))
+z=int(input("Enter third number here:- "))
+print("The biggest number is",(max(x,y,z)))
+
+NESTED IF STATEMENTS:-
+x=float(input("Enter number (x) here:- "))
+y=float(input("Enter number (y) here:- "))
+z=float(input("Enter number (z) here:- "))
+if x>y:
+    if x>z:
+        print(x, "is biggest number.")
+else:
+    if y>z:
+        print(y, "is the biggest number.")
+    else:
+        print(z, "is the bigger number")

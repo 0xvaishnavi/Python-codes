@@ -1,0 +1,8 @@
+Python program to print all the natural numbers till N.
+n=int(input("Enter any number here:- "))
+if n<=0:                                                                             
+        print("Please enter a positive number!")
+else:
+    for i in range(1, n+1):
+        print (i)  
+  

@@ -7,7 +7,7 @@ while (i<=n):
     i=i+2
 
 #FOR LOOP
-n=int(input("Enter the value of N here:- "))
+n=int(input("Enter the value of N here:- ")) 
 for i in range(2,n+1):   
     print(i)
     i=i+2    

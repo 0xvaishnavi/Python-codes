@@ -33,6 +33,20 @@ Grade B: if Percentage >= 60 and Percentage < 80
 Grade C: if Percentage >= 40 and Percentage < 60 
 Grade D: if Percentage < 40
 
+Code-14: 14)	Write a Python that takes a positive integer n and then produce n lines of output:
+      *
+    *	*	*
+  *	*	*	*	*
+*	*	*	*	*	*	*	 (sample output for n=4)
+
+Code-15: 	Write a Python that takes a positive integer n and then produce n lines of output:
+*	*	*	*
+*	*	*
+*	*	
+*				(sample output for n=4)
+
+
+
 
 Code2- Python program to print factors of a given number.
 

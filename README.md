@@ -33,26 +33,34 @@ Grade B: if Percentage >= 60 and Percentage < 80
 Grade C: if Percentage >= 40 and Percentage < 60 
 Grade D: if Percentage < 40
 
-Code-14: 14)	Write a Python that takes a positive integer n and then produce n lines of output:
-               *
-          *	*	*
-     *	*	*	*	*
+Code-14: Python program that takes a positive integer n and then produce n lines of output:
+      *
+    *	*	*
+  *	*	*	*	*
 *	*	*	*	*	*	*	 (sample output for n=4)
 
-Code-15: 	Write a Python that takes a positive integer n and then produce n lines of output:
+Code-15: Python program that takes a positive integer n and then produce n lines of output:
 *	*	*	*
 *	*	*
 *	*	
 *				(sample output for n=4)
 
+Code-16: Python program that takes a positive integer n and then produce n lines of output:
+      1
+    1	2	1
+  1	2	3	2	1
+1	2	3	4	3	2	1 	(sample output for n=4)
 
+Code-17: Python program to print Fibonacci series till the given number N. (eg. 1,1,2,3,5,8,13 for n=7) 
+
+Code-18: Python program to print first N prime numbers
 
 
 Code2- Python program to print factors of a given number.
 
 Code3- Python program to check whether a given number is even or odd.
 
-Code13- Python program to print first N prime numbers.
+Code13- .
 
 Code14- Python program to print squares of first N numbers.
 

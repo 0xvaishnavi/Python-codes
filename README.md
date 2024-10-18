@@ -34,9 +34,9 @@ Grade C: if Percentage >= 40 and Percentage < 60
 Grade D: if Percentage < 40
 
 Code-14: 14)	Write a Python that takes a positive integer n and then produce n lines of output:
-      *
-    *	*	*
-  *	*	*	*	*
+               *
+          *	*	*
+     *	*	*	*	*
 *	*	*	*	*	*	*	 (sample output for n=4)
 
 Code-15: 	Write a Python that takes a positive integer n and then produce n lines of output:
@@ -51,12 +51,6 @@ Code-15: 	Write a Python that takes a positive integer n and then produce n line
 Code2- Python program to print factors of a given number.
 
 Code3- Python program to check whether a given number is even or odd.
-
-
-
-Code11- Python program to take positive integer N and then produce N lines of outtput. (Left indented Pyramid)
-
-Code12- Python program to take positive integer N and then produce N lines of outtput. (INVERTED- Left indented Pyramid)
 
 Code13- Python program to print first N prime numbers.
 

@@ -3,7 +3,7 @@
 
 List of contents:
 
-Code1- Python program to find the biggest number from the given three numbers.
+Code-3: Python program to find the biggest number from the given three numbers using built-in function and nested if statements.
 
 Code2- Python program to print factors of a given number.
 

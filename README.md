@@ -21,17 +21,13 @@ Code-8: Python program to check whether a given year is leap year or not.
 
 Code-9: Python program to add N natural numbers and display their sum.
 
+Code-10: Python program to display the factorial of a given number.
+
+
+
 Code2- Python program to print factors of a given number.
 
 Code3- Python program to check whether a given number is even or odd.
-
-
-
-
-
-
-
-Code9- Python program to display the factorial of a given number.
 
 Code10- Python program to swap two numbers in a single statement.
 

@@ -23,13 +23,14 @@ Code-9: Python program to add N natural numbers and display their sum.
 
 Code-10: Python program to display the factorial of a given number.
 
+Code-11: Python program to swap two numbers in a single statement.
 
 
 Code2- Python program to print factors of a given number.
 
 Code3- Python program to check whether a given number is even or odd.
 
-Code10- Python program to swap two numbers in a single statement.
+
 
 Code11- Python program to take positive integer N and then produce N lines of outtput. (Left indented Pyramid)
 

@@ -1,0 +1,19 @@
+#Python program to calculate the total marks, percentage and grade of a student.Marks obtained in each of the three subjects entered by the user.Assign grades according to the following criteria: Grade A: if Percentage >= 80 Grade B: if Percentage >= 60 and Percentage < 80 Grade C: if Percentage >= 40 and Percentage < 60 Grade D: if Percentage < 40
+
+print("Note:- Please enter marks obtained out of 100 ")
+a=int(input("Enter the grade of the student in Subject I here:- "))
+b=int(input("Enter the grade of the student in Subject II here:- "))
+c=int(input("Enter the grade of the student in Subject III here:- "))
+total=a+b+c
+print("The total marks obtained are", total,"out of 300!")
+percen=(total/300)*100
+print("The percentage of the student is:- ", round(percen,2), "%")
+if  percen >= 80:
+    grade = 'A'
+elif  percen >= 60:
+    grade = 'B'
+elif  percen >= 40:
+    grade = 'C'
+else:
+        grade = 'D'
+print("The student has obtained ",grade, "grade!")

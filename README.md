@@ -57,6 +57,23 @@ Code-18: Python program to print first N prime numbers
 
 Code-19: Python program to print all the prime numbers till N.
 
+Code-20: Python program to print the following conversion table (use Loop constructs):
+Height (in Feet)	Height (in Inches)
+5.0 ft	          60 inches
+5.1 ft	          61.2 inches
+….	….
+6.0 ft	          72 inches
+
+Code-21: Python program to print the sum of squares of first N numbers.
+
+Code-22: Python program to calculate compound interest.
+
+Code-23: Python program to print armstrong numbers. (Example: 153=1^3+5^3+3^3)
+
+Code-24: Python program to convert given temperature from Fahrenheit to Celsius
+
+
+
 
 
 Code2- Python program to print factors of a given number.
@@ -67,9 +84,7 @@ Code13- .
 
 Code14- Python program to print squares of first N numbers.
 
-Code15- Python program to print sum of squares of first N numbers.
 
-Code16- Python program to calculate compound interest.
 
 Code17- Python program to print armstrong numbers till N.
 

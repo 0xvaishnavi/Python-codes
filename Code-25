@@ -1,0 +1,6 @@
+Python program to convert time in minutes to time in hours and minutes. (Example: 136 minutes:- 2 hours 16 minutes)
+
+time=int(input("Enter time in minutes: "))
+hour=time//60
+minutes= time%60
+print(time, "minutes is equal to",hour,"hours and", minutes, "minutes")

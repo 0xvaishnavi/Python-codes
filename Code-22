@@ -4,7 +4,7 @@ p=float(input("Enter the principal amount(P):- "))
 r=float(input("Enter the rate of interest(R):- "))
 n=float(input("Enter the number of times interest is compounded in a year(N):- "))
 t=int(input("Enter the number of years:- "))
-rate=r/100
+rate=r/100 
 a=p*((1+rate/n)**(n*t))
 c=a-p
 print("The compound interest for the sum",p, "is" ,round(c,2))

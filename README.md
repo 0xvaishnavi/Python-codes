@@ -70,8 +70,9 @@ Code-22: Python program to calculate compound interest.
 
 Code-23: Python program to print armstrong numbers. (Example: 153=1^3+5^3+3^3)
 
-Code-24: Python program to convert given temperature from Fahrenheit to Celsius
+Code-24: Python program to convert given temperature from Fahrenheit to Celsius.
 
+Code-25: Python program to convert time in minutes to time in hours and minutes. (Example: 136 minutes:- 2 hours 16 minutes)
 
 
 

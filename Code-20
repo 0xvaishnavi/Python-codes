@@ -1,0 +1,15 @@
+Python program to print the following conversion table (use Loop constructs):
+Height (in Feet)	Height (in Inches)
+5.0 ft	          60 inches
+5.1 ft	          61.2 inches
+….	….
+6.0 ft	          72 inches
+
+a=5.0
+b=6.0
+c=0.1
+print("Height (in feet) \t Height (in inches)")
+for i in range(int((b-a)/c)+1):
+    height=a+(i*c)
+    inches=height*12
+    print(height,"ft\t\t\t",round(inches,2),"inches")

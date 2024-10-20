@@ -1,4 +1,4 @@
-Python program to print the following conversion table (use Loop constructs):
+Python program to print the following conversion table (using Loop constructs):
 Height (in Feet)	Height (in Inches)
 5.0 ft	          60 inches
 5.1 ft	          61.2 inches

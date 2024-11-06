@@ -1,0 +1,12 @@
+Python program to print armstrong numbers.
+
+--> Example: 153=1^3+5^3+3^3
+
+N=int(input("Enter a number N: "))
+for n in range(1,N+1):
+    digit=str(n)
+    numd=len(digit)
+    total=sum(int(i)**numd for i in digit)
+    
+    if total==n:
+        print(n,end=" ")

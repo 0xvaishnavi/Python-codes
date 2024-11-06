@@ -1,0 +1,7 @@
+Python program to to read the radius of a sphere from the user and calculate the volume of the sphere
+
+Volume=3/4 ×π×r^3
+
+radius=float(input("Enter radius of the sphere: "))
+volume=(4/3)*3.14*radius**3
+print("The volume of the sphere is: ", volume)

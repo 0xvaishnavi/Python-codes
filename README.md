@@ -74,20 +74,39 @@ Code-24: Python program to convert given temperature from Fahrenheit to Celsius.
 
 Code-25: Python program to convert time in minutes to time in hours and minutes. (Example: 136 minutes:- 2 hours 16 minutes)
 
+Code-26: Python program to  reverse the numbers using % and //.
 
+Code-27: Python program to calculate area and perimeter of a triangle.
 
+Code-28: Python program to calculate grade for the marks as per DU guidelines.
 
-Code2- Python program to print factors of a given number.
+Code-29: Python program to read the radius of a sphere from the user and calculate the volume of the sphere. 
 
-Code3- Python program to check whether a given number is even or odd.
+Code-30: Python menu-driven program to ask the user to choose the sphere, cylinder, cube, cuboid and display the area of the respective shapes.
 
-Code13- .
+Code-31: Python program that takes the name and age of a person as input and displays an appropriate message whether the person is eligible to vote or not based on age where minimum age for voting is 18 years. 
 
-Code14- Python program to print squares of first N numbers.
+Code-32: Python program that takes a positive integer n and then produce n lines of output:
+			4
+		3	4
+	2	3	4
+1	2	3	4			(sample output for n=4)
 
+Code-33: Python program to find the sum and average of the positive numbers entered by the user. As soon as the user enters a negative number, stop taking in any further input from user and display the sum and average. 
 
+Code-34: Python program that reads a number in feet, converts it to meters, and display the result. 
 
-Code17- Python program to print armstrong numbers till N.
+Code-35: Python program to find the minimum and maximum of the numbers entered by the user. As soon as the user enters a ‘-999’, stop taking in any further input from user and display the minimum and maximum. 
+
+Code-36: Python program to search a particular element in the numbers entered by the user. As soon as the user enters a ‘-999’, stop taking in any further input from user and display whether the search element is available in the given numbers.
+
+Code-37: Python program to display the largest factor of a positive number entered by the user.
+
+Code-38: Python program to find whether the given number is palindrome or not without the built-in rev() function.
+
+Code-39: Python program to find the sum of the series: 1 -4 +9 -16 +25 …. till the given number N.
+
+Code-40: Python program to find the sum of the series: 1! +2! +3! +4! +5! …. till the given number N.
 
 
 

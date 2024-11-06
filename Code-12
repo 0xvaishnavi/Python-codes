@@ -1,0 +1,13 @@
+ PYTHON PROGRAM TO FIND THE ROOTS OF THE QUADRATIC EQUATION
+
+import cmath
+a=float(input("Enter the value for a: "))
+b=float(input("Enter the value for b: "))
+c=float(input("Enter the value for c: "))
+if a==0:
+    print("THe value of 'a' cannot be zero!")
+else:
+    discriminant= b**2 - 4*a*c
+    root1= (-b+ cmath.sqrt(discriminant))/(2*a) 
+    root2= (-b- cmath.sqrt(discriminant))/(2*a)
+print(f"The roots of the quadratic equation are {root1} and {root2}")

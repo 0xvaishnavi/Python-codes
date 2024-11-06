@@ -1,0 +1,12 @@
+Write a Python that takes a positive integer n and then produce n lines of output:
+			4
+		3	4
+	2	3	4
+1	2	3	4			(sample output for n=4)
+
+n=int(input("Enter a positive integer : "))
+for i in range(n):
+    print(" "* (n-i-1), end="")
+    for j in range(n-i,5):
+        print(j, end="")
+    print()

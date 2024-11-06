@@ -1,0 +1,21 @@
+Python program to find the minimum and maximum of the numbers entered by the user. As soon as the user enters a ‘-999’, stop taking in any further input from user and display the minimum and maximum. 
+
+minn = float('inf')
+maxn = float('-inf') 
+
+while True:
+    num = float(input("Enter a number (enter -999 to stop): "))
+    
+    if num == -999:
+        break
+    
+    if num < minn:
+        minn = num
+    if num > maxn:
+        maxn = num
+        
+if minn != float('inf') and maxn != float('-inf'):
+    print(f"Minimum number: {minn}")
+    print(f"Maximum number: {maxn}")
+else:
+    print("No numbers were entered.")

@@ -1,0 +1,26 @@
+Python program to calculate grade for the marks as per DU guidelines.
+
+marks = float(input("Enter your marks (out of 100): "))
+if marks >= 90:
+    grade = "A+"
+    grade_point = 10
+elif marks >= 80:
+    grade = "A"
+    grade_point = 9
+elif marks >= 70:
+    grade = "B+"
+    grade_point = 8
+elif marks >= 60:
+    grade = "B"
+    grade_point = 7
+elif marks >= 50:
+    grade = "C+"
+    grade_point = 6
+elif marks >= 40:
+    grade = "C"
+    grade_point = 5
+else:
+    grade = "F"
+    grade_point = 0
+print("Your grade is: ", grade)
+print("Your grade point is: ", grade_point)

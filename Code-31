@@ -1,0 +1,8 @@
+Python program that takes the name and age of a person as input and displays an appropriate message whether the person is eligible to vote or not based on age where minimum age for voting is 18 years. 
+
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+if age>=18:
+    print(f"Hi!v {name}, you are eligible to vote!")
+else:
+    print(f"Sorry! {name}, you are currently uneligible to vote. You must be atleast 18 years old.")

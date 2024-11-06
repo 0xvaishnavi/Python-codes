@@ -1,0 +1,11 @@
+Python program to display the largest factor of a positive number entered by the user.
+
+number=int(input("Enter a positive number:"))
+if number<=0:
+    print("Please enter a positive number.")
+else:
+    for i in range(number-1, 0 ,-1):
+        if number%i==0:
+            largest=i
+            break
+print(f"The largest factor of {number} (other than itself) is: {largest} ")

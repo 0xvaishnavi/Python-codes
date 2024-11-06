@@ -1,0 +1,38 @@
+Menu-driven python program to ask the user to choose the sphere, cylinder, cube, cuboid and display the area of the respective shapes.
+
+import math
+while True: 
+    print("\n  Menu:")
+    print("1. Sphere")
+    print("2. Cylinder")
+    print("3. Cube")
+    print("4. Cuboid")
+    print("5. Exit")
+    choice=int(input("Enter your choice (1-5): ")) 
+    
+    if choice==1:
+        radius=float(input("Enter the radius of the sphere:- "))
+        sphere=4*math.pi*radius**2
+        print("Area of the sphere: ",sphere )
+    elif choice==2:
+        radius = float(input("Enter the radius of the cylinder: "))
+        height = float(input("Enter the height of the cylinder: "))
+        cylinder=2*math.pi*radius*(height+radius)
+        print("Area of the cylinder: ",cylinder)
+    elif choice==3:
+        side = float(input("Enter the side length of the cube: "))
+        cube=6*side**2
+        print("Area of the cube is :",cube )
+    elif choice==4:
+        length = float(input("Enter the length of the cuboid: "))
+        breadth = float(input("Enter the breadth of the cuboid: "))
+        height = float(input("Enter the height of the cuboid: "))
+        cuboid=2*((length*breadth)+(breadth*height)+(height*length))
+        print("Area of cuboid", cuboid)
+        
+    elif choice==5:
+        print("Exiting the program.")
+        break
+
+    else:
+        print("Please enter a valid number choice.!")

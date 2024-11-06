@@ -1,0 +1,16 @@
+Python program to find the sum and average of the positive numbers entered by the user. As soon as the user enters a negative number, stop taking in any further input from user and display the sum and average.
+
+sum=0
+n=0
+while True:
+    num=float(input("Enter a positive number (or a negative number to stop): "))
+    if num<0:
+        break
+    sum +=sum
+    n +=1
+if n>0:
+    average=sum/n
+    print("sum of the positive numbers is :", sum)
+    print("Average of the positive numbers is:",average)    
+else:
+    print("No positive numbers were entered.")

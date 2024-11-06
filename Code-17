@@ -1,0 +1,10 @@
+Python program to print Fibonacci series till the given number N. (eg. 1,1,2,3,5,8,13 for n=7) 
+
+n=int(input("Enter the number of terms in Fibonacci series: "))
+a,b=0,1
+if n<=0:
+    print("Fibonacci series: []")
+else:
+    for _ in range(n):
+        print(a,end="")
+        a,b=b,a+b

@@ -1,0 +1,7 @@
+Python program that reads a number in feet, converts it to meters, and display the result. 
+
+--> One foot=0.305 meters
+
+feet=float(input("Enter the number in feet: "))
+meter=feet*0.305
+print(f"{feet}feet is equal to {meter} meters.")

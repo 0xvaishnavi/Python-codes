@@ -1,12 +1,10 @@
-Python program to find a particular element out of the numbers entered by the user. As soon as the user enters a ‘-999’, stop taking in any further input from user and display the minimum and maximum. 
-
-minn, maxn = float('inf'), float('-inf')
+Python program to find a particular element out of the numbers entered by the user. As soon as the user enters a ‘-999’, stop taking in any further input from user and display whether the search element is present in the  given numbers.  
+numbers = []
 while True:
     num = float(input("Enter a number (enter -999 to stop): "))
     if num == -999:
         break
-    minn, maxn = min(minn, num), max(maxn, num)
-if minn != float('inf') and maxn != float('-inf'):
-    print(f"Minimum: {minn}, Maximum: {maxn}")
-else:
-    print("No numbers were entered.")
+    numbers.append(num)
+
+search = float(input("Enter the number to search: "))
+print("Present" if search in numbers else "Not Present")
